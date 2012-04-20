@@ -1,3 +1,3 @@
 These are the things we are looking to be able to test for our Intermediate Status Report:
-•	Get data from ESPN’s API
-•	All classes set up properly
+	• Get data from ESPN’s API
+	• All classes set up properly
